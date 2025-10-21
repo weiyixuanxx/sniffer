@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import threading
 from scapy.all import sniff, get_working_if
 

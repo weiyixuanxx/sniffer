@@ -1,7 +1,7 @@
 from scapy.all import IP, TCP, UDP, ARP, ICMP, Raw, Ether
-from scapy.layers.dns import DNS
+from scapy.contrib.igmp import IGMP
+from scapy.layers.dns import DNS, DNSQR, DNSRR
 from scapy.layers.http import HTTPRequest, HTTPResponse
-
 # 用于跟踪DNS请求和响应的全局字典
 dns_requests = {}
 

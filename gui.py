@@ -13,8 +13,8 @@ class SnifferGUI:
 
     def __init__(self, root):
         self.root = root
-        self.root.title("网络嗅探工具")
-        self.root.geometry("900x700")
+        self.root.title("mini sniffer(魏轶轩)")
+        self.root.geometry("700x500")
         
         # 将 Sniffer 对象与 GUI 关联，并传入自身作为回调
         self.sniffer = PacketSniffer(self)

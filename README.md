@@ -43,7 +43,7 @@ pip install ttkbootstrap
 
 1. 直接运行 **MiniSniffer** 应用程序。
 
-![QQ20251022-154128](C:\Users\weiyi\Desktop\项目和试验\mini_sniffer\sniffer\img\QQ20251022-154128.png)
+![QQ20251022-154128](.\img\QQ20251022-154128.png)
 
 2. 在 **IDE** 下打开 **sniffer** 文件夹，运行 **main.py**
 
@@ -51,7 +51,7 @@ pip install ttkbootstrap
 
 - [欢迎使用 Scapy 的文档！ — Scapy 2023.09.03 文档](https://www.osgeo.cn/scapy/index.html)
 
-
+​	
 
 ### 1.5 tkinter简介
 
